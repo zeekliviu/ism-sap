@@ -15,7 +15,7 @@ import java.util.Base64;
 //rename the class with your name
 //use a package with the next pattern
 //	ro.ase.ism.sap.lastname.firstname
-public class ZecheruLiviuIoan {
+public class ZecheruLiviuIoan_Upload {
 
     static String getHex(byte[] bytes) {
         StringBuffer sb = new StringBuffer();
